@@ -1,0 +1,7 @@
+black
+Flask
+flask-cors
+isort
+psycopg2-binary
+SQLAlchemy
+webvtt-py
